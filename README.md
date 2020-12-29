@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my profile 😄
+- 🌱 I’m currently learning organize my dev profile and next goint to learn GoLang!
+- 👯 I’m looking to collaborate on high traffic backend developments.
+
 <!--
 **Santeee/Santeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
