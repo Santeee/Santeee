@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my profile 😄
-- 🌱 I’m currently learning organize my dev profile and next goint to learn GoLang!
+- 🌱 I’m currently learning organize my dev profile and next going to learn GoLang!
 - 👯 I’m looking to collaborate on high traffic backend developments.
 
 <!--
